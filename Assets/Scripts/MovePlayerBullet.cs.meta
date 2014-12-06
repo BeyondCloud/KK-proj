@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: bec0736214e484348b737891c733c62f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerPosition: {instanceID: 0}
+  - firePosition: {fileID: 400000, guid: bd334bd76458d584487bb1f10e534dca, type: 2}
+  - bullet: {fileID: 100000, guid: bd334bd76458d584487bb1f10e534dca, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
